@@ -1,0 +1,21 @@
+### First Principles
+- Deliver users the experience they desire
+	- Desires change => software updates
+	-  External dependencies change => software changes
+	- Security issues come up  => software updates
+	- Bugs are found  => software updates
+	- User Volume changes  => software updates
+- Updating ie. Maintaining Software means 
+	- Deploying new code
+	- Into Production => [[CICD]]
+	- Without shutting down the Service => [[Zero Downtime Deploy]]
+	- Without breaking existing functionality => rerunnable test cases, ie. [[Automated Testing - All Types]]
+	- Fully monitored for
+		- [[Performance Mgmt]]
+		- [[Observability]]
+		- debugging
+		- business performance ie. User experience
+	- Without introducing [[Security]] holes
+	- At the lowest cost => [[people]]
+	- 
+	- 

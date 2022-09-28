@@ -1,0 +1,11 @@
+### Test Results from Monitoring
+- Automated testcase development and maintenance can be significantly simplified by gathering test results from the Central Monitoring service
+- Test case design can be split into two main components: Actions and Observations
+- Actions often require direct connection to specific target systems. This pattern doesn't help with Actions.
+- Observations also often require information from multiple sources. BUT those sources can push the needed observation data to the centralized monitoring service
+- Then testcases don't need explict connections to every data source. They only need to query the monitoring database.
+- Timing can become an issue as information availability on the monitoring data is often delayed.
+- Batch testing can relieve this problem.
+	- Split the testcases into Actions and Observations
+	- Execute multiple Actions then batch the Observation component by waiting for a trigger message to appear in the monitoring DB
+- 

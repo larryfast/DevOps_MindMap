@@ -1,0 +1,8 @@
+[[Deploy vs Release]]
+[[Deploy Incomplete Code]]
+[[-Deploy Gates]]
+[[-Deployment Fear]]
+[[Clean Deploy]]
+[[Canary deploy]]
+[[Blue Green deploy]]
+[[Zero Downtime Deploy]]

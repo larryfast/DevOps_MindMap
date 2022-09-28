@@ -1,0 +1,12 @@
+- [[-Silos]]
+- [DevOps culture: Westrum organizational culture | DevOps capabilities | Google Cloud](https://cloud.google.com/architecture/devops/devops-culture-westrum-organizational-culture)
+
+- These are great discussions with Ron Westrum about organizational culture. His work comes out of aircraft safety but spans a wide range of cultures all the way down to toxic.  AND he's happy to talk to anyone that's working on culture change!  
+	- [The Idealcast | Episode 17](https://itrevolution.com/the-idealcast-episode-17/) 
+		- 17m: Apollo-13 vs Challenger or Columbia
+			- 25m: The amazing 'successful' crash landing of Flight 232 in 1989 after a complete hydraulic failure. The only control they had was the wing engine throttles.
+	- [The Idealcast | Episode 18](https://itrevolution.com/the-idealcast-episode-18/)
+- [[People]]
+- [[DevOps Culture]]
+- [[Develop Leaders]]
+- [[business metrics]]

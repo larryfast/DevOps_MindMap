@@ -1,0 +1,23 @@
+### State of DevOps Reports
+- IdealCast Fosgren
+	- 59m Measure of Organizational Performance - accounting
+		- DevOps is fundamentally different
+		- Wholistic transformation. You need the tech, you need the process, you need the culture
+		- 103m Software Delivery Performance => Biz Perf
+		- Architecture was a stronger predictor of performance even over Auto Test
+			- Even Mainframe can be successful with good Architecture
+		- 105 CULTURE! - even air-gapped systems
+			- If you can change culture you can do magic with existing ancient tech
+			- Navy example
+			- Need Space, permission, empowerment - find idealcast westrum
+		- 113 What are the 5 things you need for any cloud
+		- 114 DORA tools online - commercialized SaaS tool?
+			- Priority Matrix
+			- Strategy - consulting doesn't scale
+			- What should I do next, prioritization
+			- Narrow 50 => 10, discuss => 2 most important in your context
+		- 116 If it can work in a hospital it can work for you
+			-  "Well this won't work HERE" - think outside the box
+		- 120 Burnout and Culture - reference
+			- Building more resilient canaries - Maslak?
+		- 127 Navy air-gapped secret & ancient - give people a bit of space to think

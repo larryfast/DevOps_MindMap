@@ -1,0 +1,30 @@
+### Flow vs Batch
+- [[Flow]] vs [[-Batch]]
+- WHY FLOW?
+	- FLOW is the most time efficient production process
+	- BATCH actions inherently require extra handling steps
+- 99% of Companies use Batch software deploy to Production
+- 89.33% use batch deploy to UAT
+- BATCH is an anti-pattern because
+	- A collection of new code is tested as a group.
+	- The source of each problem must be diagnosed as "which changed caused this?"
+	- "Is change XYZ in this batch?"
+	- Developers wait longer to get test results
+		- This often means developers move on to new tasks
+		- They need to re-engage with older work to fix issues
+			- No longer in the groove
+			- Fixes can be inconsistent with original design
+- The goal is Flow, but what does that mean?
+	- Batch size = ONE! One coding task
+	- Each Task is delivered to UAT when the developer says DONE
+	- If there's a bug, there's only one possible source
+	- In full CICD each Task is separately delivered all the way to Production!
+		- This is NOT easy. Many testing and pipeline services must be fully operational before this can work
+- How do we get there?
+	- Sanity testing must be FAST. IE. Automated
+	- Manual testing is moved out of the Pipeline
+	- IE. system critical, automated testing is part of the Pipeline
+	- Manual testing can still be done but should not be mission critical and should not block the Pipeline
+- Flow Examples from other domains - always looking for better examples
+	- [[Bottling Plant]]
+	- [[Paint Shop]]

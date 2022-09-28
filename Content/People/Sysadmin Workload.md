@@ -1,0 +1,12 @@
+### Sysadmin Workload
+- [[+Cattle +IaC -Snowflakes]]
+- [[People]]
+- Snowflakes = maximum workload
+	- 30 servers per Operator
+	- Servers are mostly configured manually & updated incrementally
+	- Every problem requires manual investigation.
+	- Every change to every server requires inspection and manual action.
+- IaC
+	- 100+ servers per Operator
+	- BUT Operators must also be programmers
+	- [[Reduce Cognitive Load]]
