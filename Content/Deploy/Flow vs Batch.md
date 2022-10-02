@@ -1,5 +1,5 @@
 ### Flow vs Batch
-- [[Flow]] vs [[-Batch]]
+- [[Flow]] vs [[-Batch Release]]
 - WHY FLOW?
 	- FLOW is the most time efficient production process
 	- BATCH actions inherently require extra handling steps

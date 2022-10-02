@@ -6,9 +6,27 @@
       {
         "id": "9c6332287151bf9a",
         "type": "leaf",
+        "dimension": 63.251817580964975,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Content/Build/Design for Automated Testability.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "22e5cfde1838f339",
+        "type": "leaf",
+        "dimension": 36.74818241903503,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Content/Build/Design for Automated Testability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Content/Build/Design for Automated Testability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,18 +130,63 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Content/Build/Design for Automated Testability.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b4ba15b9d2b2a837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58562f4081d3a19a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Content/Build/Design for Automated Testability.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.7,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.39755057473390654,
+                  "close": false
+                }
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 464.5
   },
   "active": "9c6332287151bf9a",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "Content/Deploy/Deploy vs Release.md",
+    "Content/Build/Runtime Feature Flags.md",
+    "Content/Build/Backward Compatible.md"
   ]
 }

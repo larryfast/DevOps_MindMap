@@ -1,4 +1,10 @@
-This repo generates a Mind Map of DevOps concepts. 
+### Introduction
+This repo generates an associative graph of DevOps concepts. 
+
+### Current State
+Currently the work of single author coming to DevOps as a developer & cruising the DevOps literature. Like so much of DevOps collaboration is needed to bring other domains into focus.
+
+### Mind Maps
 
 ### Obsidian System Setup
 You need to install Obsidian to use this repo. Obsidian is a markdown based free form documentation system much like a Wiki. 
@@ -14,5 +20,7 @@ You need to install Obsidian to use this repo. Obsidian is a markdown based free
 
 
 ### Todos
+- Add how-to for non-developers
+	- Download the ZIP file via CODE button dropdown
 - Add a standalone introduction that does not require installing Obsidian. Include screenshots and videos of the Map showing what you'll be able to see and do if you install Obsidian.
 

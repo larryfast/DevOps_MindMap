@@ -1,5 +1,4 @@
 ### Platforms
-[[CICD]]
 [[Environment Services]]
 [[IaaS PaaS]]
 [[Platform Cfg]]

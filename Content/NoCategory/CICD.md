@@ -5,8 +5,9 @@
 	- But every step integrated into an Automated 'CICD' service [[Reduce Cognitive Load]]  for everyone involved
 - Anti-pattern = [[-Deploy Gates]]
 - [[DevOps Landscape]]
+- [[Monitoring++]]
 ### Continuous comes from Industry
-- [[TODOs]] add case studies from other industries
+- [[XXTODOs]] add case studies from other industries
 - Bottling Plant?
 	- Imagine each code change as a Coke bottle
 	- The next bottle enters the conveyor (pipeline)

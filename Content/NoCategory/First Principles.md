@@ -7,7 +7,7 @@
 	- User Volume changes  => software updates
 - Updating ie. Maintaining Software means 
 	- Deploying new code
-	- Into Production => [[CICD]]
+	- Into Production => CICD
 	- Without shutting down the Service => [[Zero Downtime Deploy]]
 	- Without breaking existing functionality => rerunnable test cases, ie. [[Automated Testing - All Types]]
 	- Fully monitored for
