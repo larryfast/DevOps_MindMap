@@ -1,12 +1,12 @@
-### -Deploy Gates
-- An aspect of the [[Anti-Pattern]]s that often hamstring CICD attempts
 - Deployment gates, approvals, manual checklists or any human involvement breaks the CICD model
+- This [[Anti-Pattern]] often hamstrings CICD attempts
 - Blocks anything faster than a weekly deploy process.
 - MITIGATION
 	- Identify the root causes for each Gate
 	- Investigate the conditions that would relieve the need for a gate
-		- This is often insufficient automated testing
+		- Often this can be traced back to insufficient monitoring or automated testing
 	- Do it SAFELY!
-		- Build the relief into the CICD Pipeline
+		- Don't remove the Gate until improvements render it obsolete
+		- Upgrade the CICD Pipeline to relieve the need for the gate
 		- Retain the Gate UNTIL the Gate process is always coming up clean
-		- 
+			- IE automation always catches the problem before you hit the Gate
