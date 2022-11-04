@@ -1,4 +1,4 @@
-### Feature Branching
+### Feature Branching 
 - This [[Anti-Pattern]] 
 	- delays release of new code
 	- accumulates multiple code packages into a big bang release
@@ -11,3 +11,5 @@
 - Often requires extra testing environments
 	- further increasing [[Reduce Cognitive Load]] to keep track of multiple overlapping in time
 		- We fixed that in change XYZ. Does that build include XYZ?
+
+### Best Practice is [[Runtime Development Control Flags]]

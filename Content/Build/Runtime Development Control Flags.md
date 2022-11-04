@@ -1,4 +1,4 @@
-### Runtime Feature Flags
+### Runtime Development Control Flags
 [[TODOs]]
 [[Flikr Velocity 2009]]
 

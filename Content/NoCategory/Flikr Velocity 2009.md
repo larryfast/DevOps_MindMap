@@ -2,4 +2,4 @@
 - [[TODOs]] - get link
 - seminal presentation.
 - [[[Training Materials]]
-- Introduces [[Runtime Feature Flags]]
+- Introduces [[Runtime Development Control Flags]]
