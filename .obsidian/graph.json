@@ -1,14 +1,14 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "path:Content",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Content/Deploy",
+      "query": "path:Content/AntiPatterns",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -18,21 +18,21 @@
       "query": "path:Content/People",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 11001938
       }
     },
     {
       "query": "path:Content/Build",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14734418
       }
     },
     {
       "query": "file:Operations",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 7708400
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7037000396294937,
+  "scale": 1.0449043882274591,
   "close": false
 }
