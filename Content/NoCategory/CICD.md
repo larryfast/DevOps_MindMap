@@ -7,7 +7,7 @@
 - [[DevOps Landscape]]
 - [[Monitoring++]]
 ### Continuous comes from Industry
-- [[XXTODOs]] add case studies from other industries
+- [[TODOs]] add case studies from other industries
 - Bottling Plant?
 	- Imagine each code change as a Coke bottle
 	- The next bottle enters the conveyor (pipeline)

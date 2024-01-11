@@ -1,2 +1,2 @@
 ### Languages
-[[Dev]]
+[[Development]]

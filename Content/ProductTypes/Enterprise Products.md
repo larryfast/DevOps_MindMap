@@ -1,0 +1,21 @@
+- PROBLEMS
+	- Every product has it's core business. To support that core it will include a suite of other services around the fringe
+	- Those fringe services will usually be poor second cousins to a product designed for that service. Some fringes will be A+ while others often fall all the way to an F.
+	- Why include a fringe service that scores an F? Sales & Marketing
+		- S+M will get requests from customers that they also want to be able to do XY+Z.
+		- First this turns into marketing hype: Of course our product does XY+Z.
+		- This hype may get shutdown by management or added to the backlog of development work.  It may get added to a product roadmap.
+		- If it's on the roadmap, salesmen will sell it.
+- What is an Enterprise Product? A product whos goal is to serve a large slice of a business's needs. The Business customers will give all their employees accounts on the service. The goal is that all staff will use this product for key aspects of their day to day work
+- Even enterprise products have focuses, domains and boundaries.
+- Examples
+	- Google Workspaces
+	- Github
+		- Core: version control w. Git
+		- Fringes
+			- issue tracking
+			- documentation via Readme and Gist
+			- Project management
+			- Build & Deploy via Actions
+	- An HR system that manages hiring processes and staff records
+- 

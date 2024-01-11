@@ -1,0 +1,18 @@
+[Shape Up: Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup)
+- This is aspirational.  Leadership (and staff?) should review and discuss it.
+- We start in R+D mode [https://basecamp.com/shapeup/2.3-chapter-09](https://basecamp.com/shapeup/2.3-chapter-09).  
+	- When we bring Wursta/other onboard, we will be in R+D mode. While we wouldn't normally call this R+D, I think the analogy fits. We don't know how to design the Foundation.  We know how to decorate the rooms in our apartment building but we need the Foundation and the floor plans first.  
+	- We will work with Wursta to define the foundation.  We will partition the foundation defining into work packages that fit Wursta's normal sprint schedule.  
+	- Starting point is [[Product Development Planning MOC]]
+	- Beside that activity we will have Wursta engage with Nate, Larry & Ali to learn the product design and review the existing DB and Figma work.
+- Thoughts on applying "Get one piece DONE" to Foundation development
+	- [https://basecamp.com/shapeup/3.2-chapter-11](https://basecamp.com/shapeup/3.2-chapter-11) 
+	- From a Foundation perspective, getting the "new code from desktop to production **via CD**" DONE is a good first target.  
+	- The goal is minimizing the wasted cycles that come from manual work. 
+	- There are three parts to this: Front end, back end and DB. The team can decide which of these to tackle first.
+- **"... and it works"** Is a hidden foundational part of this CD story
+	- This is about ensuring that the CD pipeline includes testing. 
+	- From a product standpoint, there's a tendency to start with user login. 
+	- I think of that as a wrapper around everything else. 
+	- I wonder if starting development from an assumption of "the user is already logged in" provides more options. 
+	- Then we could target something like "Nate's setup screens" or [[The Math]] as the first end-to-end feature.

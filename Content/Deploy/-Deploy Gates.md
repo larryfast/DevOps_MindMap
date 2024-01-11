@@ -1,0 +1,14 @@
+- An aspect of the [[Anti-Pattern]]s that often hamstring CICD attempts
+	- Deployment gates
+	- Approvals
+	- Manual checklists
+	- or any human involvement breaks the CICD model
+- Blocks anything faster than a weekly deploy process.
+- MITIGATION
+	- Identify the root causes for each Gate
+	- Investigate the conditions that would relieve the need for a gate
+		-  Often this can be traced back to insufficient monitoring or automated testing
+	- Do it SAFELY!
+		- Upgrade the CICD Pipeline to relieve the need for the gate
+		- Retain the Gate UNTIL the Gate process is always coming up clean
+			- IE automated testing or monitoring always catches the problem before you hit the Gate

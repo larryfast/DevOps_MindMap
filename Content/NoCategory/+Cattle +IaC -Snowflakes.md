@@ -1,6 +1,8 @@
 ### +Cattle +IaC -Snowflakes
-- Back in the day we used to configure servers by hand and invent a unique name for each. 
-- Generically we call them Snowflakes. Each is unique. 
+- Back in the day we built servers by hand and gave each a unique name. 
+	- Servers as Pets
+- As infrastructure gets bigger the pet model starts failing. The uniqueness of individual servers becomes a maintenance problem.
+	- Servers as Snowflakes.
 - Product would get deployed and redeployed onto a Snowflake. 
 - The server config was manually upgraded incrementally
 - Snowflakes are expensive to maintain

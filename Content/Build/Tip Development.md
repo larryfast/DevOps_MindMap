@@ -5,4 +5,4 @@
 - Feature Flags are used to hide that code until it's safe to turn it on.
 
 - Tip Development dramatically simplifies the life of a developer. [[Reduce Cognitive Load]]
-	- eliminates [[Feature Branching]]
+	- eliminates the need for long lived branches. Eg. [[-Feature Branching]]
