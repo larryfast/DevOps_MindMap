@@ -1,4 +1,4 @@
-- This [[Anti-Pattern]] 
+- This [[Anti-Patterns]] 
 	- delays release of new code
 	- accumulates multiple code packages into a big bang release
 	- BUT is widely used in the industry and arguments can be made in favor of using it.

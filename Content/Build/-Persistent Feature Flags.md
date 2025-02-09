@@ -2,7 +2,7 @@
 	- DevOps only wants to protect the Product from incomplete or unreleased Product changes
 	- Once a code set is Released to all customers, Flags should be stripped out
 - 
-- while there are legitimate reasons for a Product to have persistent feature flags, this is an [[Anti-Pattern]] for the DevOps aspects of your Product
+- while there are legitimate reasons for a Product to have persistent feature flags, this is an [[Anti-Patterns]] for the DevOps aspects of your Product
 - This applies to an persistent flags including
 	- runtime flags
 	- build-time conditionals

@@ -15,7 +15,7 @@
 		- [[Observability]]
 		- debugging
 		- business performance ie. User experience
-	- Without introducing [[Security]] holes
+	- Without introducing [[Security DevSecOps]] holes
 	- At the lowest cost => [[people]]
 	- 
 	- 

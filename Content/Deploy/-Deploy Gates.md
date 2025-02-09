@@ -1,4 +1,4 @@
-- An aspect of the [[Anti-Pattern]]s that often hamstring CICD attempts
+- An aspect of the [[Anti-Patterns]]s that often hamstring CICD attempts
 	- Deployment gates
 	- Approvals
 	- Manual checklists

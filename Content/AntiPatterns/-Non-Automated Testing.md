@@ -1,5 +1,5 @@
 ### -Non-Automated Testing
-[[Anti-Pattern]]
+[[Anti-Patterns]]
 - All too often manual testing is unavoidable.
 	- Legacy Systems
 	- No budget for automation

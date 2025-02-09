@@ -1,5 +1,5 @@
 ### -Project Teams
-[[Anti-Pattern]]
+[[Anti-Patterns]]
 [[Product Teams]]
 - A Project Team is Task oriented - not RACI
 - Does not have responsibility for lifetime of Product

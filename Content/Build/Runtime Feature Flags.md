@@ -17,3 +17,6 @@
 - build
 #### Unreleased is important
 - Once a block of code has been released and is always on in production, the Flag(s) should e stripped from code
+
+### BUT we also need [[User Feature Flags]]
+- different users will have access permission on different product features

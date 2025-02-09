@@ -3,4 +3,4 @@
 [[2022-08-15 Closeout report to Jay Perry HBC = DevOps CoE Strategies]]
 [[References]]
 [[Case Studies]]
-[[HBC DevOps Strategies Confluence]]
+[[DevOps Strategies Confluence HBC]]

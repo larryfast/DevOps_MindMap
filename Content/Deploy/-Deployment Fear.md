@@ -1,4 +1,4 @@
-[[Anti-Pattern]]
+[[Anti-Patterns]]
 [[Deploy]]
 - On a scale of 1-10, how scary is deployment to Production?
 - In long release cycle processes, all your risk gets focused on deployment
