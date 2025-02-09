@@ -1,0 +1,9 @@
+- In the west, we read from Left to Right. The arrow of time points Left to Right.
+- Development starts on the Left and progresses to the Right into Operations
+- Shift Left is a meme for countering older ways of development where testing, deployment, operations, security, etc are tacked onto the end of a project.
+- Shift Left is about integrating these 'late' tasks into earlier phases of development
+- Done poorly Shift Left can become a burden on developers. 
+	- See [[Reduce Cognitive Load]]
+- Done well, it brings the people responsible for those other concerns into earlier phases of development. Thoughtfully identifiying the low hanging fruit that can be turned into automated processes. 
+- Every little bit that we can Shift Left makes everything will get better
+- [[CICD]][[DevOps Landscape]][[DevOps Culture]]

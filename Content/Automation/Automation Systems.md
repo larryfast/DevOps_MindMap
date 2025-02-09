@@ -1,0 +1,17 @@
+### Automation Systems
+- [[CICD]]
+- [[DevOps Landscape]]
+- [[Automated Testing - All Types]]
+- [[Security DevSecOps]]
+- [[Secrets Vaults]]
+- [[Service Accounts]]
+- [[Credentials]]
+- Do you have a single service structure for all automation?
+	- Small Scale automation
+	- System level, capital A Automation
+- Tools
+	- JUnit - Small A
+	- Jenkins - Big A
+	- Github Actions - Big A
+	- Playwright - Small A
+	- 
