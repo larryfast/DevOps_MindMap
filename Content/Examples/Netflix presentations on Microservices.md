@@ -1,0 +1,19 @@
+- Before watching the videos, start by imagining how many servers are needed to run Netflix.  The answer is probably millions.
+	- Bottom up
+		- How many Netflix users?  200 million?
+		- How many users can an individual server serve?  
+			- for browsing & movie selection - 1000?
+			- for playing movies - 5?
+			- for accounting and billing - 10,000?
+	- Top down
+		- servers in each region
+		- separate microservices for 
+			- movie search
+			- playback
+			- account mgmt
+- NOW you're ready to watch these videos
+- [Beyond DevOps: How Netflix Bridges the Gap - InfoQ](https://www.infoq.com/presentations/netflix-operations-devops/)
+	- This is the fundamentals of DevOps at scale
+	- @14m - defend internally: you cannot let any single microservice failure bring down the whole system
+- [Resiliency through Failure - Netflix's Approach to Extreme Availability in the Cloud - InfoQ](https://www.infoq.com/presentations/netflix-resiliency-failure-cloud/?utm_source=chatgpt.com)
+- [Microservices Retrospective – What We Learned (and Didn’t Learn) from Netflix - InfoQ](https://www.infoq.com/presentations/microservices-netflix-industry/)

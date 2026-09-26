@@ -1,0 +1,16 @@
+- Paint Shop feels a bit more like software development than [[sulphuric acide production]] 
+- Both of these metaphors are described in various DevOps books (ref?)
+- The metaphor: think of every work package from a developer as an object that needs to be Painted in the Paint Shop.
+- Old style batch painting
+	- Setup the Paint Shop for Green
+	- Paint all the waiting Green parts.
+	- Paint Shop is big - needs to receive and handled large batches of parts
+	- 'retooling' for another colour takes a lot of time
+	- Also, parts often need multiple layers of paint with drying time in between.
+- New style - single part painting
+	- Design a small painting cell that can paint an individual part.
+	- Set it up with a self-clean cycle. Similar to a washing machine cycle.
+		- Part comes in
+		- gets painted
+		- part exits
+		- cell is self-cleaned, ready for next part
